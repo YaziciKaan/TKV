@@ -1,7 +1,6 @@
 from abc import ABC
 from segment import train as train_seg
 from segment import predict as predict_seg
-import tkinter
 from tkinter import filedialog
 import os
 
