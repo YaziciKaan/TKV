@@ -3,14 +3,14 @@
 Bu proje, girilen hastaların böbrek MR'ları üzerinden toplam hacim tahmini yapmayı amaçlamaktadır.
 
 ## Gereksinimler
-yolov9-main klasörü içerisindeki requirements.txt dosyası ile gereksinimler yüklenmektedir.(Python 3.8.x sürümü kullanılması önerilir.)
+requirements.txt dosyasında gerekli gereksinimler mevcuttur. Python 3.8.x versiyonunda projenin çalıştırılması önerilir.(Terminal Üzerinde)
 
 ## Kurulum
 
 1. Projenin klonlanması:
     ```sh
     git clone https://github.com/YaziciKaan/TKV.git
-    cd TKV/yolov9-main
+    cd TKV
     ```
 
 2. Sanal ortamın oluşturulması:
