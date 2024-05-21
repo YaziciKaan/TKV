@@ -1,0 +1,13 @@
+train: C:\Users\Kaan\Desktop\Deneme\yolov9-main\data\train\images
+val: C:\Users\Kaan\Desktop\Deneme\yolov9-main\data\val\images
+test: C:\Users\Kaan\Desktop\Deneme\yolov9-main\data\test\images
+
+nc: 4
+names: ['Sag', 'Sol', 'sag', 'sol']
+
+roboflow:
+  workspace: deneme-poft8
+  project: kidneyy
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/deneme-poft8/kidneyy/dataset/3
