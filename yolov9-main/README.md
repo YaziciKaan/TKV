@@ -7,30 +7,30 @@ yolov9-main klasörü içerisindeki requirements.txt dosyası ile gereksinimler 
 
 ## Kurulum
 
-1. Projeyi klonlayın:
+1. Projenin klonlanması:
     ```sh
     git clone https://github.com/YaziciKaan/TKV.git
     cd TKV/yolov9-main
     ```
 
-2. Sanal ortam oluşturun:
+2. Sanal ortamın oluşturulması:
     ```sh
     py -3.8 -m venv my_venv
     ```
 
-3. Sanal ortamı etkinleştirin:
+3. Sanal ortamı etkinleştirmek:
     - Windows:
         ```sh
         myenv\Scripts\activate
         ```
 
-4. Gerekli paketleri yükleyin:
+4. Gereksinimlerin kurulumu:
     ```sh
     pip install -r requirements.txt
     ```
 ## Kullanım
 
-1. Projeyi çalıştırın:
+1. Projenin çalıştırılması:
     ```sh
     python totalkidneyvolume.py
     ```
