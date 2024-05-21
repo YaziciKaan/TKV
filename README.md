@@ -1,6 +1,6 @@
 # TKV Projesi
 
-Bu proje, girilen hastaların böbrek MR'ları üzerinden toplam hacim tahmini yapmayı amaçlamaktadır.
+Bu proje, YoloV9 kullanılarak girilen hastaların böbrek MR'ları üzerinden toplam hacim tahmini yapmayı amaçlamaktadır.
 
 ## Gereksinimler
 requirements.txt dosyasında gerekli gereksinimler mevcuttur. Python 3.8.x versiyonunda projenin çalıştırılması önerilir.(Terminal Üzerinde)
