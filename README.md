@@ -1,6 +1,6 @@
 # TKV Projesi
 
-Bu proje, verilen hasta böbrek MR'ları üzerinden toplam hacim tahmini yapmayı amaçlamaktadır.
+Bu proje, girilen hastaların böbrek MR'ları üzerinden toplam hacim tahmini yapmayı amaçlamaktadır.
 
 ## Gereksinimler
 yolov9-main klasörü içerisindeki requirements.txt dosyası ile gereksinimler yüklenmektedir.(Python 3.8.x sürümü kullanılması önerilir.)
@@ -10,7 +10,7 @@ yolov9-main klasörü içerisindeki requirements.txt dosyası ile gereksinimler 
 1. Projeyi klonlayın:
     ```sh
     git clone https://github.com/YaziciKaan/TKV.git
-    cd TKV
+    cd TKV/yolov9-main
     ```
 
 2. Sanal ortam oluşturun:
