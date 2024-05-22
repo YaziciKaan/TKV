@@ -22,7 +22,7 @@ def read_labels(label_path, image_shape):
                 labels.append({'class_index': class_index, 'points': points})       
     return labels
 
-# 
+# Etiketler aracılığı ile maskenin oluşturulması
 def mask_from_labels(labels, image_shape):
     if labels == []:
         return None
