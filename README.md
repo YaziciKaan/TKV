@@ -3,7 +3,7 @@
 Bu proje, YoloV9 kullanılarak girilen hastaların böbrek MR'ları üzerinden toplam hacim tahmini yapmayı amaçlamaktadır.
 
 ## Gereksinimler
-requirements.txt dosyasında gerekli gereksinimler mevcuttur. Python 3.8.x versiyonunda projenin çalıştırılması önerilir.(Terminal Üzerinde)
+requirements.txt dosyasında gerekli gereksinimler mevcuttur. Python 3.8.x versiyonunda projenin çalıştırılması önerilir.
 
 ## Kurulum
 
@@ -36,10 +36,3 @@ requirements.txt dosyasında gerekli gereksinimler mevcuttur. Python 3.8.x versi
     ```
 
 2. Proje çalıştığında, dosyalarınızı seçmek için bir dosya seçici açılacaktır. Tahminler ve toplam böbrek hacmi hesaplanacaktır.
-
-## Parametreler
-
-Projede kullanılan bazı önemli parametreler:
-
-- **Kesit Aralığı**: Görüntüler arasındaki kesit aralığı.
-- **Kesit Kalınlığı**: Görüntülerin kesit kalınlığı.
